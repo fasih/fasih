@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 😄 Pronouns: Python
 
-<img src="https://github-readme-stats.vercel.app/api?username=fasihahmad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=fasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
